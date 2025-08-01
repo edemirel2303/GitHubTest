@@ -1,1 +1,1 @@
-print("hello aq")
+print("nasıl aq")
