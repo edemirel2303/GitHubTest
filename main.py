@@ -1,1 +1,1 @@
-print("nasıl aq")
+print("nasıl aq inş")
